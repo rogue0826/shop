@@ -1,5 +1,7 @@
 <template>
 	<!-- 测试多台电脑编写代码 -->
+	<!-- 测试从家里电脑同步到公司电脑  git config --global user.email "17600341257@163.com"
+  -->
   <view>
     <!-- 使用自定义的搜索组件 -->
     <!-- <my-search :bgcolor="'pink'" :radius="3"></my-search> -->
