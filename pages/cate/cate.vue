@@ -1,4 +1,5 @@
 <template>
+	<!-- 测试多台电脑编写代码 -->
   <view>
     <!-- 使用自定义的搜索组件 -->
     <!-- <my-search :bgcolor="'pink'" :radius="3"></my-search> -->
